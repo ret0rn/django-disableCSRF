@@ -10,4 +10,6 @@ MIDDLEWARE = [
   # 'django.middleware.csrf.CsrfViewMiddleware',
   'apps.<your_app>.middleware.DisableCSRF',
   ...
+]
+
 ```
