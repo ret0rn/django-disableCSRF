@@ -1,10 +1,11 @@
 # Django Disable CSRF
 django middleware to disable CSRF validation
 
-##Set up
+## Set up
+
+**settings.py**
 
 ```python
-**settings.py**
 
 MIDDLEWARE = [
   ...
